@@ -1,6 +1,7 @@
 # Sanchit Kulkarni Portfolio
 
 A modern, interactive portfolio website for Sanchit Kulkarni, a Senior Analytics Platform Engineer focused on enterprise analytics platforms, AI-native analytics, data visualization, governance, cloud BI operations, and stakeholder-ready decision systems.
+Can be accessed here - https://sanchitkul.github.io/sanchit-kulkarni-portfolio/
 
 ## What It Showcases
 
