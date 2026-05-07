@@ -1,12 +1,13 @@
 # Sanchit Kulkarni Portfolio
 
-A modern, interactive portfolio website for Sanchit Kulkarni, a Senior Analytics Engineer and BI Platform Lead focused on enterprise analytics platforms, data visualization, cloud BI operations, and stakeholder-ready decision systems.
+A modern, interactive portfolio website for Sanchit Kulkarni, a Senior Analytics Platform Engineer focused on enterprise analytics platforms, AI-native analytics, data visualization, governance, cloud BI operations, and stakeholder-ready decision systems.
 
 ## What It Showcases
 
-- Enterprise BI platform leadership across Tableau, Power BI, Hex, Preset, Spotfire, and Qlik Sense.
+- Enterprise BI platform leadership across Tableau, Power BI, Hex, Preset, Superset, Spotfire, and Qlik Sense.
 - Analytics engineering impact, including scaling platform usage to 11,000 users and reducing manual access work by 90%.
-- Data and cloud experience across SQL, Databricks, Snowflake, Amazon Redshift, AWS, and Azure.
+- Data and cloud experience across SQL, Databricks, dbt, Snowflake, Amazon Redshift, AWS, and Azure.
+- AI-native analytics context, including conversational analytics, metadata strategy, ACL frameworks, and agentic data workflows.
 - Professional timeline covering Rivian and LTIMindtree / Johnson & Johnson experience.
 - Education and certifications, including NJIT MIS graduate studies, AWS Cloud Practitioner, and Tableau certifications.
 
@@ -40,10 +41,10 @@ Stop the server with `Ctrl + C`.
 
 ```text
 .
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
+|-- index.html
+|-- styles.css
+|-- script.js
+`-- README.md
 ```
 
 ## Tech Stack
