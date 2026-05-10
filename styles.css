@@ -227,7 +227,7 @@ section {
 
 .section-grid {
   display: grid;
-  grid-template-columns: minmax(0, 0.95fr) minmax(320px, 1.05fr);
+  grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.92fr);
   gap: 2rem;
   align-items: center;
 }
@@ -250,17 +250,17 @@ section {
   margin: 0 0 0.65rem;
   color: var(--text);
   font-family: var(--display);
-  font-size: clamp(4.6rem, 10vw, 10.5rem);
+  font-size: clamp(4rem, 7.8vw, 8rem);
   font-weight: 900;
-  line-height: 0.82;
-  letter-spacing: -0.08em;
+  line-height: 0.86;
+  letter-spacing: -0.07em;
 }
 
 h1 {
-  max-width: 850px;
+  max-width: 660px;
   margin: 0;
-  font-size: clamp(2.35rem, 5vw, 5.4rem);
-  line-height: 0.96;
+  font-size: clamp(2.2rem, 3.9vw, 4.25rem);
+  line-height: 1;
 }
 
 h2 {
